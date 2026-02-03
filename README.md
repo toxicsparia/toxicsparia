@@ -1,14 +1,16 @@
 <div align="center">
 
-  # Hi there, I'm Masidur (Masud) Rahaman! 👋
+# ✨ Hi there I'm Masidur Rahaman aka toxicsparia! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">
+  
+  <br><br>
+
+
 
   <h3>Tech Enthusiast | Exploring the Frontiers of Software Engineering</h3>
 
   <br>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Exploring+AI%2FML+%26+Cyber+Security;Learning+Cloud+Computing+%26+Blockchain;Aspiring+Full+Stack+Developer;Software+Engineering+Student" alt="Typing SVG" />
-  </a>
+ <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTV2eXV3b2p1ZGpnZGlnODZ0Z3hxbDcxOGpnb285ZXcxODIxcmZ2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BjPe9A3tNHoeHhxmlD/giphy.gif" alt="Banner" width="100%" />
 
 </div>
 
