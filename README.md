@@ -1,13 +1,13 @@
 <div align="center">
 
-  # Hi there, I'm Masidur Rahaman aka toxicsparia! 👋
+  # Hi there, I'm Masidur (Masud) Rahaman! 👋
 
-  `#include <stdio.h> int main () {printf("Hello World"); return 0; }`
+  <h3>Tech Enthusiast | Exploring the Frontiers of Software Engineering</h3>
 
   <br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Video+Editor+%26+Post-Production+Specialist;BCA+Student+@+Manipal+University+Jaipur;Cybersecurity+Enthusiast;Motion+Graphics+Artist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Exploring+AI%2FML+%26+Cyber+Security;Learning+Cloud+Computing+%26+Blockchain;Aspiring+Full+Stack+Developer;Software+Engineering+Student" alt="Typing SVG" />
   </a>
 
 </div>
@@ -16,43 +16,31 @@
 
 ### 👨‍💻 About Me
 
-I am a creative professional transitioning into the world of Computer Science. [cite_start]With a strong background in **Post-Production** and **Motion Graphics**, I am currently pursuing a **Bachelor of Computer Applications (BCA)** at **Manipal University Jaipur**[cite: 164, 209]. 
+I am a tech enthusiast currently in a deep learning phase, exploring the vast landscape of Computer Science. My primary focus is on building a strong foundation in **Software Engineering**, with specific interests in:
 
-My journey combines technical precision with creative storytelling, spanning from advanced video editing to exploring **Ethical Hacking**, **Digital Forensics**, and **Artificial Intelligence**.
+* 🤖 **AI & Machine Learning**
+* 🔐 **Cyber Security & Ethical Hacking**
+* ☁️ **Cloud Computing**
+* 🔗 **Blockchain Technology**
 
-- 🔭 **I’m currently studying:** Computer Applications (BCA)
-- [cite_start]💼 **Professional Experience:** Former Senior Video Editor at *Net Following* [cite: 202]
-- [cite_start]🎓 **Education:** Manipal University Jaipur & University of Gour Banga [cite: 208, 210]
-- ⚡ **Interests:** Digital Forensics, Dark Web Analysis, AI Prompt Engineering, and Creative Design.
+I love exploring new technologies and am constantly expanding my skillset to define my path in the tech world. In my past, I worked professionally in post-production, giving me a unique perspective on creative workflows alongside technical problem-solving.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-#### **Creative & Design**
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-333333?style=for-the-badge&logo=davinciresolve&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
-#### **Technical & Security**
+#### **Technical & Development**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=google-bard&logoColor=white)
 
----
-
-### 🏆 Certifications
-
-| Certification | Organization | Date |
-| :--- | :--- | :--- |
-| [cite_start]**AI Tools Workshop** (AI, Prompt Engineering) [cite: 107] | Be10x | Feb 2026 |
-| [cite_start]**Typing Certificate** [cite: 113] | Ratatype | Feb 2026 |
-| [cite_start]**Certified Hack With Phone** (Ethical Hacking) [cite: 121] | HCL GUVI | Oct 2022 |
-| [cite_start]**Certified Dark Web** (Dark Web Analysis) [cite: 132] | HCL GUVI | N/A |
-| [cite_start]**Basic Computer Skills** [cite: 127] | IIIT Kota | Sep 2022 |
+#### **Creative & Design**
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-333333?style=for-the-badge&logo=davinciresolve&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ---
 
@@ -65,10 +53,25 @@ My journey combines technical precision with creative storytelling, spanning fro
 
 ---
 
-### 📫 Connect with Me
+### 🌐 Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/toxicsparia/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/toxicsparia/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://x.com/toxicsparia" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://www.facebook.com/toxicsparia" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://telegram.me/toxicsparia" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://www.reddit.com/user/toxicsparia/" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
   </a>
 </div>
