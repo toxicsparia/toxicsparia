@@ -11,14 +11,14 @@
 
 ### 👨‍💻 About Me
 
-I am a tech enthusiast currently in a deep learning phase, exploring the vast landscape of Computer Science. My primary focus is on building a strong foundation in **Software Engineering**, with specific interests in:
+I am a tech enthusiast currently in a learning phase, exploring the vast landscape of Computer Science. My primary focus is on building a strong foundation in **Software Engineering**, with specific interests in:
 
 * 🤖 **AI & Machine Learning**
 * 🔐 **Cyber Security & Ethical Hacking**
 * ☁️ **Cloud Computing**
 * 🔗 **Blockchain Technology**
 
-I love exploring new technologies and am constantly expanding my skillset to define my path in the tech world. In my past, I worked professionally in post-production, giving me a unique perspective on creative workflows alongside technical problem-solving.
+I love exploring new technologies and constantly expanding my skillset to define my path in the tech world. In my past, I worked professionally in post-production, giving me a unique perspective on creative workflows alongside technical problem-solving.
 
 ---
 
@@ -69,4 +69,9 @@ I love exploring new technologies and am constantly expanding my skillset to def
   <a href="https://www.reddit.com/user/toxicsparia/" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
   </a>
+</div>
+
+<div align="center">
+  <h3>Visitor Count 👀</h3>
+  <img src="https://count.getloli.com/get/@toxicsparia?theme=rule34" alt="Moe Counter" />
 </div>
