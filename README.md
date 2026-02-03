@@ -1,11 +1,7 @@
 <div align="center">
 
 # ✨ Hi there I'm Masidur Rahaman aka toxicsparia! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">
-  
-  <br><br>
-
-
-
+  <br>
   <h3>Tech Enthusiast | Exploring the Frontiers of Software Engineering</h3>
 
   <br>
