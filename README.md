@@ -51,6 +51,10 @@ I love exploring new technologies and constantly expanding my skillset to define
 
 ---
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="toxicsparia" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/toxicsparia?trk=profile-badge">MASIDUR RAHAMAN</a></div>
+
+---
+
 <!--
 ### 🌐 Connect with Me
 
