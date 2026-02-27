@@ -40,7 +40,7 @@ I love exploring new technologies and constantly expanding my skillset.
 
 ---
 
-## 🌐 Socials:
+## 🌐 Find me:
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/toxicsparia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:toxicsparia1@gmail.com) 
 
 ---
