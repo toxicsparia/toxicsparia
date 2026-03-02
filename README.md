@@ -1,9 +1,7 @@
 <div align="center">
 
 # ✨ Hi there I'm Masidur Rahaman aka toxicsparia! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">
-  <h3>BCA Student | Learning C & DSA | Building in public</h3>
-  <br>
- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5odmVpOG90N285NXNxeG5ibTRpbHViY28yeGRrMnY0a3hxejl2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wgEdSBcvxOSdsmOrpu/giphy.gif" alt="Banner" width="300px" height="280px"/>
+  <h3>Learning C & DSA | Building in public</h3>
 
 </div>
 
@@ -12,17 +10,6 @@
 ### 👨‍💻 About Me
 
 My name is Masidur Rahaman. I'm from Malda, West Bengal, India.
-Building in public — everything I learn goes here on GitHub.
-I love exploring new technologies and constantly expanding my skillset.
-
----
-
-## 🚀 Currently
-
-- 📚 Semester 1 — learning C Programming fundamentals
-- 🧠 Focused on: logic building, recursion, problem solving
-- 📌 Next goal: Data Structures (Sem 2)
-- 💻 Practicing problems on HackerRank
 
 ---
 
