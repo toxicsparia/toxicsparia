@@ -1,6 +1,6 @@
 <hr/>
 <div>
-Hi there I'm Masidur Rahaman (Masud) better known as toxicsparia. I'm from Kolkata, WB, India. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="17px" height="17px"> </div>
+Hi there I'm Masidur Rahaman (Masud) better known as toxicsparia.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="17px" height="17px"> </div>
 
 <hr/>
 
