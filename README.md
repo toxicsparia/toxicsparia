@@ -1,33 +1,9 @@
-<div align="center">
-
-# ✨ Hi there I'm Masidur Rahaman aka toxicsparia! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">
-  <h3>Building in public</h3>
-
-</div>
+<div>
+Hi there I'm Masidur Rahaman (Masud). Better known as toxicsparia. I'm from Kolkata, WB, India. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21px" height="21px"> </div>
 
 ---
 
-### 👨‍💻 About Me
-
-My name is Masidur Rahaman. I'm from Kolkata, WB.
-
----
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)<!-- ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=flat&logo=Adobe%20Audition&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF)--> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white)
-
-
----
-
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=toxicsparia&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=toxicsparia&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=toxicsparia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=toxicsparia&theme=dark&hide_border=true&layout=compact)-->
-
----
-
-## 🌐 Find me:
+[![Bio.site](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAfUlEQVR4AWP4jwcMYclza9ZcxCG5nAEMNmKTTGWAgjJMyWkMcLAcXfIbAxJAl9yILLkPTbIZWXIammQNsuRENMmFyJIb0SQfIUu+Q/dKLEKuDMOf33hgcir/v0kIfUENoW+BELnY//+PAH2DHvAXO2NjO2+B3V4ztNMQJgAAbCGCarJ7NHcAAAAASUVORK5CYII=)](https://bio.site/toxicsparia)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/toxicsparia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:toxicsparia1@gmail.com) 
 
 ---
@@ -55,4 +31,30 @@ My name is Masidur Rahaman. I'm from Kolkata, WB.
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/toxicsparia) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/toxicsparia) 
+
+
+<div align="center">
+
+# ✨ Hi there I'm Masidur Rahaman aka toxicsparia! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">
+  <h3>Building in public</h3>
+
+</div>
+
+---
+
+
+-->
+
+<!--
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)<!-- ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=flat&logo=Adobe%20Audition&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF)--> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white)
+-->
+
+<!--
+### 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=toxicsparia&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=toxicsparia&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=toxicsparia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=toxicsparia&theme=dark&hide_border=true&layout=compact)
+---
 -->
