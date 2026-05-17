@@ -1,7 +1,6 @@
 <hr/>
-<div align="center">
-<pre><b> <big> Hi there I'm MASIDUR RAHAMAN <i>(Masud)</i> also known as <i>toxicsparia</i>. </big> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px"> </pre>
-</div>
+<div>
+<pre><h3>Hi there I'm MASIDUR RAHAMAN <i>(Masud)</i> also known as <i>toxicsparia</i>.</h3></pre> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px"></div>
 <br/>
 <div align="center">
 
